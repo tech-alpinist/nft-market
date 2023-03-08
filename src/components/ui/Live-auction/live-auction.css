@@ -1,0 +1,15 @@
+.single__nft__card {
+  padding: 20px;
+  background: #343444;
+  border-radius: 10px;
+}
+
+.live__auction__top h3 {
+  color: #fff;
+}
+
+.live__auction__top span a {
+  text-decoration: none;
+  color: #fff;
+  border-bottom: 1px solid #5142fc;
+}
